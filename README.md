@@ -1,4 +1,4 @@
-# React Live Streaming with VideoSDK
+# React Live Streaming with Video SDK
 
 ## 4 Steps to Build React Interactive Live Streaming App using Video SDK
 ### Tools for building an Interactive Live Streaming App
